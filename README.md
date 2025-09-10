@@ -6,7 +6,7 @@ This project is a practice website to learn layouts, navigation bars, buttons, a
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://MdFirozAlam-maker.github.io/flowerlover)  
+👉 [View on GitHub Pages](https://github.com/MdFirozAlam-maker/FlowerLover)
 
 
 ---
