@@ -31,4 +31,16 @@ https://www.behance.net/gallery/228301393/FlowerLover-Simple-Yet-Effective-Landi
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🔮 Future Improvements
+- Make the website **responsive** for mobile & tablet screens
+- Add animations and hover effects
+- Add order form with JavaScript
+
+---
+
+## 🙌 Author
+Made with ❤️ by MD FIROZ ALAM
+
