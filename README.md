@@ -7,12 +7,12 @@ This project is a practice website to learn layouts, navigation bars, buttons, a
 
 ## 🚀 Live Demo
 👉 [View on GitHub Pages](https://MdFirozAlam-maker.github.io/flowerlover)  
-*(replace `yourusername` with your GitHub username after uploading)*
+
 
 ---
 
 ## 📸 Preview
-![Website Preview](https://plus.unsplash.com/premium_photo-1681234557177-cdaa392ede04?w=600&auto=format&fit=crop&q=60)
+https://www.behance.net/gallery/228301393/FlowerLover-Simple-Yet-Effective-Landing-Page/modules/1307299941
 
 ---
 
